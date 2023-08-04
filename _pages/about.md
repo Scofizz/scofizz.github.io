@@ -17,9 +17,12 @@ Research Interest
 + Deep Reinforcement Learning (DRL)
 + Wireless Networked Control Systems (WNCS) 
 
-Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+Publications
 ======
 + [**Recommender Systems in the Era of Large Language Models (LLMs)**](https://arxiv.org/abs/2307.02046)
-  <br> Wenqi Fan, Zihuai Zhao, Jiatong Li, **Yunqing Liu**, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
+  <br> Wenqi Fan, **Zihuai Zhao**, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
   <br> _arXiv_, [arXiv:2307.02046](https://arxiv.org/abs/2307.02046)
-  <br><img src="/images/LLMs_tasks.png"  width="200"/>
+
++ [**Deep Learning for Wireless Networked Systems: A Joint Estimation-Control-Scheduling Approach**](https://ieeexplore.ieee.org/document/10197647)
+  <br> **Zihuai Zhao**, Wanchun Liu, Daniel E. Quevedo, Yonghui Li, Branka Vucetic
+  <br> _IEEE Internet of Things Journal (Early Access)_, **2023**, [DOI: 10.1109/JIOT.2023.3300074](https://ieeexplore.ieee.org/document/10197647)
