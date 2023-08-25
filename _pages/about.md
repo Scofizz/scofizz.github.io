@@ -7,6 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 I am currently a Ph.D. student of the [Department of Computing](https://www.polyu.edu.hk/comp/) (COMP), [Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (PolyU), under the supervision of Prof. Qing Li and Dr. Wenqi Fan. Before joining the PolyU, I received both his Master’s degree (MPhil in Electrical Engineering) and Bachelor’s degree (B.Eng. (Hons) in Electrical Engineering) from the University of Sydney in 2023 and 2020, respectively. My research interest covers Recommender Systems, Natural Language Processing, and Deep Reinforcement Learning. I am always welcoming collaboration from solid partners.
 
