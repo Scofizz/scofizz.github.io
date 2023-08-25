@@ -27,7 +27,7 @@ Publications
 ======
 + [**Recommender Systems in the Era of Large Language Models (LLMs)**](https://arxiv.org/abs/2307.02046)
   <br> Wenqi Fan\*, **Zihuai Zhao**, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
-  <br> _arXiv_, [arXiv:2307.02046](https://arxiv.org/abs/2307.02046)
+  <br> _arXiv:2307.02046_
   <br> <kbd><a href="https://arxiv.org/abs/2307.02046">arXiv</a></kbd> <kbd><a href="/files/2023_LLM_GPT_Rec_Survey_v2_0.pdf">PDF</a></kbd>
   <p style="margin-top: 5px;"><img src="/images/LLMs_tasks.png"  width="200"/></p>
 
