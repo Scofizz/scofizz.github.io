@@ -20,9 +20,11 @@ Research Interest
 Publications
 ======
 + [**Recommender Systems in the Era of Large Language Models (LLMs)**](https://arxiv.org/abs/2307.02046)
-  <br> Wenqi Fan, **Zihuai Zhao**, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
+  <br> Wenqi Fan\*, **Zihuai Zhao**, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
   <br> _arXiv_, [arXiv:2307.02046](https://arxiv.org/abs/2307.02046)
+  <br> <kbd><a href="https://arxiv.org/abs/2307.02046">arXiv</a></kbd> <kbd><a href="/files/2023_LLM_GPT_Rec_Survey_v2_0.pdf">PDF</a></kbd>
+  <p style="margin-top: 5px;"><img src="/images/LLMs_tasks.png"  width="200"/></p>
 
 + [**Deep Learning for Wireless Networked Systems: A Joint Estimation-Control-Scheduling Approach**](https://ieeexplore.ieee.org/document/10197647)
-  <br> **Zihuai Zhao**, Wanchun Liu, Daniel E. Quevedo, Yonghui Li, Branka Vucetic
+  <br> **Zihuai Zhao**, Wanchun Liu\*, Daniel E. Quevedo, Yonghui Li, Branka Vucetic
   <br> _IEEE Internet of Things Journal (Early Access)_, **2023**, [DOI: 10.1109/JIOT.2023.3300074](https://ieeexplore.ieee.org/document/10197647)
