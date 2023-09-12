@@ -25,7 +25,7 @@ Research Interest
 
 News 🔥
 ======
-+ Our tutorial on [Recommender Systems in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2307.02046) is accepted by [ICDM 2023](https://www.cloud-conf.net/icdm2023/).
++ Our tutorial on [**Recommender Systems in the Era of Large Language Models (LLMs)**](https://arxiv.org/abs/2307.02046) is accepted by [ICDM 2023](https://www.cloud-conf.net/icdm2023/).
    
 Publications
 ======
