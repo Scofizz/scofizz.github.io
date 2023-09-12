@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me 🎓"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,7 +16,7 @@ redirect_from:
 
 I am currently a Ph.D. student of the Department of Computing, [Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (PolyU), under the supervision of [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/) and [Dr. Wenqi Fan](https://wenqifan03.github.io/). Before joining the PolyU, I received both his Master’s degree (MPhil in Electrical Engineering) and Bachelor’s degree (B.Eng. (Hons) in Electrical Engineering) from the University of Sydney in 2023 and 2020, respectively. My research interest covers Recommender Systems, Natural Language Processing, and Deep Reinforcement Learning. I am always welcoming collaboration from solid partners.
 
-Research Interest
+Research Interest 
 ======
 + Recommender Systems (RecSys)
 + Natural Language Processing (NLP)
