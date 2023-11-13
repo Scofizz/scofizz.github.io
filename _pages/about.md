@@ -29,10 +29,10 @@ News 📣
    
 Publications
 ======
-+ [**Recommender Systems in the Era of Large Language Models (LLMs)**](https://arxiv.org/abs/2307.02046)
++ **Recommender Systems in the Era of Large Language Models (LLMs)**
   <br> Wenqi Fan\*, **Zihuai Zhao**, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
   <br> _arXiv preprint_, **2023**, [arXiv:2307.02046](https://arxiv.org/abs/2307.02046)
 
-+ [**Deep Learning for Wireless Networked Systems: A Joint Estimation-Control-Scheduling Approach**](https://ieeexplore.ieee.org/document/10197647)
++ **Deep Learning for Wireless Networked Systems: A Joint Estimation-Control-Scheduling Approach**
   <br> **Zihuai Zhao**, Wanchun Liu\*, Daniel E. Quevedo, Yonghui Li, Branka Vucetic
   <br> _IEEE Internet of Things Journal (Early Access)_, **2023**, [DOI:10.1109/JIOT.2023.3300074](https://ieeexplore.ieee.org/document/10197647)
