@@ -27,7 +27,7 @@ News 📣
 ======
 + Our tutorial on **Recommender Systems in the Era of Large Language Models (LLMs)** is accepted by [ICDM 2023](https://www.cloud-conf.net/icdm2023/).
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">Overview</div><img src='/images/LLMs_tasks.png' alt="sym" width="400"></div></div>
-  <br> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button">Tutorial Website</a> <a href="/files/LLM4Rec.pdf" class="button">Paper</a> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button">Paper</a>
+  <br> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button">Tutorial Website</a> <a href="/files/LLM4Rec.pdf" class="button">Paper</a> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button">Slide</a>
    
 Publications
 ======
