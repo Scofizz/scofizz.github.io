@@ -25,16 +25,16 @@ Research Interest
 
 News 📣
 ======
-+ Our tutorial on **Recommender Systems in the Era of Large Language Models (LLMs)** is accepted by [ICDM 2023](https://www.cloud-conf.net/icdm2023/).
++ Our tutorial on **Recommender Systems in the Era of Large Language Models (LLMs)** is accepted by ICDM 2023.
   <br> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button">Tutorial Website</a> <a href="/files/LLM4Rec.pdf" class="button">Paper</a> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/doc/RecSys+LLMs.pdf" class="button">Slide</a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.25)); filter: drop-shadow(10px 10px 10px rgba(0,0,0,.25)); margin-top: 5px;'><div><div class="badge">Overview</div><img src='/images/LLMs_tasks.png' alt="sym" width="400"></div></div>
    
 Publications
 ======
-+ **Recommender Systems in the Era of Large Language Models (LLMs)**
++ Recommender Systems in the Era of Large Language Models (LLMs)
   <br> Wenqi Fan\*, **Zihuai Zhao**, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
   <br> _arXiv preprint_, 2023, [arXiv:2307.02046](https://arxiv.org/abs/2307.02046)
 
-+ **Deep Learning for Wireless Networked Systems: A Joint Estimation-Control-Scheduling Approach**
++ Deep Learning for Wireless Networked Systems: A Joint Estimation-Control-Scheduling Approach
   <br> **Zihuai Zhao**, Wanchun Liu\*, Daniel E. Quevedo, Yonghui Li, Branka Vucetic
   <br> _IEEE Internet of Things Journal (Early Access)_, 2023, [DOI:10.1109/JIOT.2023.3300074](https://ieeexplore.ieee.org/document/10197647)
