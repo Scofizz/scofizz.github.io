@@ -22,11 +22,27 @@ I am currently a Ph.D. student of the Department of Computing, [Hong Kong Polyte
 + <i class="fas fa-brain"></i> Deep Reinforcement Learning (DRL)
 + <i class="fas fa-network-wired"></i> Wireless Networked Control Systems (WNCS)
 
-News 📣
-======
-+ Our tutorial on **Recommender Systems in the Era of Large Language Models (LLMs)** is accepted by ICDM 2023.
-  <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.25)); filter: drop-shadow(10px 10px 10px rgba(0,0,0,.25)); margin-top: 5px;'><div><div class="badge">Overview</div><img src='/images/LLMs_tasks.png' alt="sym" width="400"></div></div>
-  <br> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button">Tutorial Website</a> <a href="/files/LLM4Rec.pdf" class="button">Paper</a> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/doc/RecSys+LLMs.pdf" class="button">Slide</a>
+### News 📣
+<div class="news-card">
+  <div class="card-header">
+    <i class="fas fa-newspaper"></i> ICDM 2023 Tutorial
+  </div>
+  <div class="card-content">
+    <p>Recommender Systems in the Era of Large Language Models (LLMs)</p>
+    <div class='paper-box-image'>
+      <img src='/images/LLMs_tasks.png' alt="LLM Tasks">
+    </div>
+    <div class="card-buttons">
+      <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button">
+        <i class="fas fa-globe"></i> Tutorial Website
+      </a>
+      <a href="/files/LLM4Rec.pdf" class="button">
+        <i class="fas fa-file-pdf"></i> Paper
+      </a>
+    </div>
+  </div>
+</div>
+
    
 Publications
 ======
