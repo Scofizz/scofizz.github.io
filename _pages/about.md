@@ -16,33 +16,18 @@ redirect_from:
 
 I am currently a Ph.D. student of the Department of Computing, [Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (PolyU), under the supervision of [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/) and [Dr. Wenqi Fan](https://wenqifan03.github.io/). Before joining the PolyU, I received both a Master’s degree (MPhil in Engineering) and a Bachelor’s degree (B.Eng. (Hons) in Electrical Engineering) from the University of Sydney in 2023 and 2020, respectively. My research interest covers Recommender Systems, Natural Language Processing, and Deep Reinforcement Learning. I am always welcoming collaboration from solid partners.
 
-### Research Interest 🔬
-+ <i class="fas fa-chart-line"></i> Recommender Systems (RecSys)
-+ <i class="fas fa-language"></i> Natural Language Processing (NLP)
-+ <i class="fas fa-brain"></i> Deep Reinforcement Learning (DRL)
-+ <i class="fas fa-network-wired"></i> Wireless Networked Control Systems (WNCS)
+Research Interest 
+======
++ Recommender Systems (RecSys)
++ Natural Language Processing (NLP)
++ Deep Reinforcement Learning (DRL)
++ Wireless Networked Control Systems (WNCS) 
 
-### News 📣
-<div class="news-card">
-  <div class="card-header">
-    <i class="fas fa-newspaper"></i> ICDM 2023 Tutorial
-  </div>
-  <div class="card-content">
-    <p>Recommender Systems in the Era of Large Language Models (LLMs)</p>
-    <div class='paper-box-image'>
-      <img src='/images/LLMs_tasks.png' alt="LLM Tasks">
-    </div>
-    <div class="card-buttons">
-      <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button">
-        <i class="fas fa-globe"></i> Tutorial Website
-      </a>
-      <a href="/files/LLM4Rec.pdf" class="button">
-        <i class="fas fa-file-pdf"></i> Paper
-      </a>
-    </div>
-  </div>
-</div>
-
+News 📣
+======
++ Our tutorial on **Recommender Systems in the Era of Large Language Models (LLMs)** is accepted by ICDM 2023.
+  <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.25)); filter: drop-shadow(10px 10px 10px rgba(0,0,0,.25)); margin-top: 5px;'><div><div class="badge">Overview</div><img src='/images/LLMs_tasks.png' alt="sym" width="400"></div></div>
+  <br> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button">Tutorial Website</a> <a href="/files/LLM4Rec.pdf" class="button">Paper</a> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/doc/RecSys+LLMs.pdf" class="button">Slide</a>
    
 Publications
 ======
