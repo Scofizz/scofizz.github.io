@@ -35,6 +35,10 @@ Publications
   <br> **Zihuai Zhao**, Wenqi Fan\*, Yao Wu, and Qing Li
   <br> _arXiv preprint_, 2024, [arXiv:2504.04199](https://arxiv.org/abs/2504.04199)
 
++ TokenRec: Learning to Tokenize ID for LLM-Based Generative Recommendations
+  <br> Haohao Qu, Wenqi Fan, **Zihuai Zhao**, and Qing Li
+  <br> _IEEE Transactions on Knowledge and Data Engineering_, 2024, [10.1109/TKDE.2025.3599265](https://doi.org/10.1109/TKDE.2025.3599265)
+
 + Recommender Systems in the Era of Large Language Models (LLMs)
   <br> **Zihuai Zhao**, Wenqi Fan\*, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
   <br> _IEEE Transactions on Knowledge and Data Engineering_, 2024, [10.1109/TKDE.2024.3392335](https://doi.org/10.1109/TKDE.2024.3392335)
