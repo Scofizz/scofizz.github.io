@@ -32,7 +32,7 @@ News 📣
 Publications
 ======
 + Recommender Systems in the Era of Large Language Models (LLMs)
-  <br> Zihuai Zhao, Wenqi Fan\*, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
+  <br> *Zihuai Zhao*, Wenqi Fan\*, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
   <br> _arXiv preprint_, 2023, [arXiv:2307.02046](https://arxiv.org/abs/2307.02046)
 
 + Deep Learning for Wireless Networked Systems: A Joint Estimation-Control-Scheduling Approach
