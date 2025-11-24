@@ -18,10 +18,10 @@ I am currently a Ph.D. student of the Department of Computing, [Hong Kong Polyte
 
 Research Interest 
 ======
-+ Recommender Systems (RecSys)
-+ Natural Language Processing (NLP)
++ Recommender System (RecSys)
++ Large Language Model (LLM)
 + Deep Reinforcement Learning (DRL)
-+ Wireless Networked Control Systems (WNCS) 
++ Wireless Networked Control System (WNCS) 
 
 News 📣
 ======
