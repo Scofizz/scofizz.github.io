@@ -37,4 +37,4 @@ Publications
 
 + Deep Learning for Wireless Networked Systems: A Joint Estimation-Control-Scheduling Approach
   <br> **Zihuai Zhao**, Wanchun Liu\*, Daniel E. Quevedo, Yonghui Li, Branka Vucetic
-  <br> _IEEE Internet of Things Journal (Early Access)_, 2023, [DOI:10.1109/JIOT.2023.3300074](https://ieeexplore.ieee.org/document/10197647)
+  <br> _IEEE Internet of Things Journal_, 2023, [DOI:10.1109/JIOT.2023.3300074](https://ieeexplore.ieee.org/document/10197647)
